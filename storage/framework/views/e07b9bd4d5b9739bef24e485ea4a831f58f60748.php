@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\SIO\Laravel\projet2\resources\views/index.blade.php ENDPATH**/ ?>
